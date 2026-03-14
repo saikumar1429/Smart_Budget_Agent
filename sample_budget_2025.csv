@@ -1,0 +1,11 @@
+date,category,description,amount
+2025-01-01,Salary,Monthly Salary,5200
+2025-01-05,Rent,Apartment Rent,-1250
+2025-01-07,Utilities,Electric Bill,-110
+2025-01-08,Internet,Broadband,-50
+2025-01-10,Groceries,Whole Foods,-250
+2025-01-14,Dining Out,Sushi,-80
+2025-01-15,EMI,Car Loan,-350
+2025-01-20,Shopping,Clothes,-120
+2025-01-25,Groceries,Trader Joes,-180
+2025-01-28,Transport,Uber,-40
